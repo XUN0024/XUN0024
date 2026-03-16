@@ -4,10 +4,6 @@
 
 **Full Stack Developer | SaaS Architect | AI Integration Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
 *Passionate about building high-performance Web Applications with a focus on AI integration and complex SaaS logic.*
 📍 Based in Malaysia | 🌐 English · Chinese · Malay
 
