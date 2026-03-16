@@ -70,7 +70,7 @@
 ### 🤖 AI & Data
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 - **Embeddings:** E5, BGE-M3
-- **Skills:** Semantic Search, Prompt Engineering, ML Workflows
+- **Skills:** Semantic Search, ML Workflows
 
 ---
 
