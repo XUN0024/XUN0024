@@ -40,12 +40,6 @@
 
 ---
 
-## 📈 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
-</p>
 
 ---
 
