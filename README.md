@@ -39,15 +39,6 @@
   - Implemented **Dual Embedding Search** (E5 & BGE-M3) for high-accuracy semantic search.
   - Built the **Gamification Engine**: Achievement systems and community quiz modules.
 
-### 🖥️ PlanWise
-*Cross-platform desktop productivity application.*
-
-- **Tech Stack:** `Electron` | `React` | `Tailwind CSS` | `Supabase`
-- **Key Features:**
-  - **Multi-tenant isolation** using Supabase Row-Level Security (RLS).
-  - Integrated Task Management, Expense Tracking, and Note-taking.
-  - **Offline-capable** workflow for desktop users.
-
 ---
 
 ## 🧰 Tech Stack
