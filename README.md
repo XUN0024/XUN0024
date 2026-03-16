@@ -1,48 +1,98 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm SHE JIA XUAN</h1>
 
-# 👋 Hi, I'm SHE JIA XUAN
-
-**Full Stack Developer | SaaS Architect | AI Integration Specialist**
-
-*Passionate about building high-performance Web Applications with a focus on AI integration and complex SaaS logic.*
-📍 Based in Malaysia | 🌐 English · Chinese · Malay
-
-</div>
+<p align="center">
+💻 Computer Science (AI) Student <br>
+🎓 Multimedia University, Melaka <br>
+🚀 Passionate about SaaS Systems, AI Integration & Full-Stack Development
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | **Next.js 15 (App Router)**, **React 19**, TypeScript, Tailwind CSS, **Redux (Middleware)**, React Query |
-| **Backend & Infra** | **Supabase**, PostgreSQL, Redis (Caching), RESTful API (Next.js Routes), **Vercel** |
-| **AI / ML** | **LangChain**, Prompt Engineering, Vector Embeddings (**E5**, **BGE-M3**) |
-| **Integrations** | **Stripe (Advanced Payment Workflows)**, i18next (Multi-language Support) |
-
----
-
-## 🏗️ Featured Projects
-
-### 💼 SaaS Project Management System (Final Year Project)
-*A robust enterprise-grade SaaS architecture focusing on subscription management and administrative control.*
-
-* **Payment Infrastructure**: Implemented a comprehensive billing engine using **Stripe**, covering payment intents, checkout sessions, prorated plan upgrades, and automated renewals with off-session charging and refund workflows.
-* **Admin Panel & Governance**: Designed a full-scale Admin Panel featuring a **Role-Based Access Control (RBAC)** system, user management, subscription plan control, and a detailed audit logging system for security.
-* **Architectural Guardrails**: Developed a custom **Redux middleware layer** that enforces subscription "feature gates" at the state management level, ensuring business rules are validated before API calls are even initiated.
-
-### 🎓 Studify - AI-Powered Learning Ecosystem
-*An intelligent community platform designed to enhance learning through AI-driven insights and gamification.*
-
-* **AI Orchestration**: Integrated **LangChain** for automated content summarization with custom prompt engineering to optimize educational output.
-* **Semantic Search**: Implemented a dual-embedding retrieval system utilizing **E5 and BGE-M3 models** to significantly improve search relevance across community content.
-* **Engineered Gamification**: Built an achievement engine with real-time triggers and progress tracking, utilizing **Redis** for low-latency caching and **React Query** for efficient state synchronization.
+- 🎓 **Bachelor in Computer Science (Artificial Intelligence)** at **Multimedia University, Melaka**
+- 🧠 Interested in **SaaS architecture, AI-powered systems, and scalable platforms**
+- 🛠️ Experienced in **Full Stack Development** with a focus on modern web tech
+- 🌏 Project experience with **internationalization (EN / CN / BM)** support
+- 📚 **Currently Exploring:** Learning **Python** for AI systems, data processing, and machine learning workflows.
 
 ---
 
+## 🚀 Featured Projects
+
+### 📊 Project Management System (Final Year Project)
+*A full-stack SaaS Project Management Platform with integrated billing.*
+
+- **Tech Stack:** `Next.js 15` | `React 19` | `Supabase` | `Stripe` | `Redux` | `Vercel`
+- **Key Contributions:**
+  - Built **Stripe Payment Infrastructure**: Handled Checkout Sessions, Prorated Upgrades, and Automated Renewals.
+  - Designed **Admin Panel**: Role-based permissions, analytics dashboards, and full audit logging.
+  - Implemented **Redux Middleware Feature Gates**: Enforced business logic and subscription rules on the client side.
+- **i18n Support:** Fully localized in English, Chinese, and Malay.
+
+### 🧠 Studify (Hackathon Project)
+*AI-powered student lifestyle and community platform.*
+
+- **Tech Stack:** `TypeScript` | `LangChain` | `Redis` | `React Query` | `Supabase`
+- **Key Contributions:**
+  - Developed the **AI Summarization Pipeline** using custom prompt engineering.
+  - Implemented **Dual Embedding Search** (E5 & BGE-M3) for high-accuracy semantic search.
+  - Built the **Gamification Engine**: Achievement systems and community quiz modules.
+
+### 🖥️ PlanWise
+*Cross-platform desktop productivity application.*
+
+- **Tech Stack:** `Electron` | `React` | `Tailwind CSS` | `Supabase`
+- **Key Features:**
+  - **Multi-tenant isolation** using Supabase Row-Level Security (RLS).
+  - Integrated Task Management, Expense Tracking, and Note-taking.
+  - **Offline-capable** workflow for desktop users.
 
 ---
 
-<div align="center">
-  <i>"I build systems that think, analyze, and scale autonomously."</i>
-</div>
+## 🧰 Tech Stack
+
+### 💻 Languages & Frontend
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Infrastructure
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🤖 AI & Data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+- **Embeddings:** E5, BGE-M3
+- **Skills:** Semantic Search, Prompt Engineering, ML Workflows
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+- 🐍 **Advanced Python** for AI Development
+- 🏗️ **AI Systems Architecture** & Scalability
+- 🧪 **Machine Learning Workflows** (Mlopps)
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
