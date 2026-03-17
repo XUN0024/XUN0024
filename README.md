@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Bachelor in Computer Science (Artificial Intelligence)** at **Multimedia University, Melaka**
+- 🎓 **Bachelor of Computer Science (Artificial Intelligence)** at **Multimedia University, Melaka**
 - 🧠 Interested in **SaaS architecture, AI-powered systems, and scalable platforms**
 - 🛠️ Experienced in **Full Stack Development** with a focus on modern web tech
 - 🌏 Project experience with **internationalization (EN / CN / BM)** support
