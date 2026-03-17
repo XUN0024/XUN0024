@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHE JIA XUAN</h1>
 
 <p align="center">
-💻 Bachelor in Computer Science (AI) Student <br>
+💻 Bachelor of Computer Science (AI) Student <br>
 🎓 Multimedia University, Melaka <br>
 🚀 Passionate about SaaS Systems, AI Integration & Full-Stack Development
 </p>
